@@ -1,0 +1,1 @@
+Add-RecipientPermission -Identity application@midpennbank.com -Trustee smtp@midpennbank.com -AccessRights SendAs
